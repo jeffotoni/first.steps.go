@@ -11,10 +11,7 @@ O site é o primeiro passo antes de avançarmos, ele é bem completo e muito gra
 
 #### Doc Go
 
-[doc golang](https://golang.org/doc)
-
-Neste link teremos exatamente o que precisaremos para iniciar.
-
+Neste link teremos exatamente o que precisaremos para iniciar  [doc golang](https://golang.org/doc)
 
 _A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos.
 Go é expressivo, conciso, limpo e eficiente. Seus mecanismos de simultaneidade facilitam a escrita de programas que aproveitam ao máximo as máquinas multicore e em rede, enquanto seu novo tipo de sistema permite a construção flexível e modular de programas. Go compila rapidamente para código de máquina, mas tem a conveniência da coleta de lixo e o poder de reflexão em tempo de execução. É uma linguagem rápida, compilada estaticamente, que parece uma linguagem interpretada dinamicamente._
