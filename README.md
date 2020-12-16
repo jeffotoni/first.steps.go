@@ -2,7 +2,7 @@
 
 #### Iniciando em Go
 
-Esta é a página oficial golang.org, aqui encontraremos todas informações que poderíamos saber sobre Go.
+Esta é a página oficial [golang.org](golang.org), aqui encontraremos todas informações que poderíamos saber sobre Go.
 Nosso start em Go inicia-se por este site, aqui temos os docs, packages, blog e nosso queridinho play.golang.org, specs da lingugem, download, tour em Go e muito mais.
 
 Então primeiro passo é conhecer o SITE e como podemos usufruir ainda mais de tudo que está ai.
@@ -21,11 +21,11 @@ Go é expressivo, conciso, limpo e eficiente. Seus mecanismos de simultaneidade 
 
 #### Dando nosso Start em Go
 
- 	- [Installing Go](https://golang.org/doc/install)
-	
-	- [Tutorial Getting started](https://golang.org/doc/tutorial/getting-started.html)
-	
-	- [Tutorial: Create a module](https://golang.org/doc/tutorial/create-module.html)
+- [Installing Go](https://golang.org/doc/install)
+
+- [Tutorial Getting started](https://golang.org/doc/tutorial/getting-started.html)
+
+- [Tutorial: Create a module](https://golang.org/doc/tutorial/create-module.html)
 
 
 
