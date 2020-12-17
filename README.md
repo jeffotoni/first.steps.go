@@ -53,6 +53,11 @@ Go é expressivo, conciso, limpo e eficiente. Seus mecanismos de simultaneidade 
 
 - [Installing Go](https://golang.org/doc/install)
 
+```bash
+	$ sudo go get golang.org/dl/go1.16beta1
+	$ sudo tar -C /usr/local -xzf /tmp/go1.15.5.linux-amd64.tar.gz
+```
+
 - [Tutorial Getting started](https://golang.org/doc/tutorial/getting-started.html)
 
 - [Tutorial: Create a module](https://golang.org/doc/tutorial/create-module.html)
@@ -128,5 +133,4 @@ Mas vamos voltar à simultaneidade e adicionar alguma interação ao nosso servi
  - Executando imagem docker
  - Apresentando retrocompatibilidade
  - palestras -> https://docs.google.com/presentation/d/1rHGhzeptr7SA4P2F0wjh6_9VsvLgAAe_awVjSG3oUyo/edit#slide=id.p
-
- - 
+ 
