@@ -22,6 +22,13 @@ Essas considerações levaram a uma série de discussões das quais Go surgiu, p
 Um pouco da história aqui [10 anos escalando](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html)
 
 
+#### História do mascote Gophers 
+
+O Go gopher é um mascote icônico e uma das características mais distintivas do projeto Go. Neste post vamos falar sobre suas origens, evolução e comportamento.
+
+[história do gopher](https://blog.golang.org/gopher)
+
+
 #### Qual é a história do projeto?
 
 Robert Griesemer, Rob Pike e Ken Thompson começaram a esboçar as metas para uma nova linguagem no quadro branco em 21 de setembro de 2007. Em poucos dias, as metas se estabeleceram em um plano para fazer algo e uma ideia justa do que seria. O design continuou a tempo parcial em paralelo com o trabalho não relacionado. Em janeiro de 2008, Ken começou a trabalhar em um compilador para explorar ideias; ele gerou código C como sua saída. Em meados do ano, a linguagem se tornou um projeto em tempo integral e se estabeleceu o suficiente para tentar um compilador de produção. Em maio de 2008, Ian Taylor começou de forma independente em um front-end GCC para Go usando as especificações preliminares. Russ Cox entrou no final de 2008 e ajudou a mover a linguagem e as bibliotecas do protótipo para a realidade.
