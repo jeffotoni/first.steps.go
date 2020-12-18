@@ -143,7 +143,25 @@ Mas vamos voltar à simultaneidade e adicionar alguma interação ao nosso servi
 
  - Boteco Go Canal de Youtube fala sobre Go de forma humorada..
   https://www.youtube.com/channel/UCyfu7Q4ZjmW94iDnfTGvmBA
-
+  
+## Poadcasts
+ - https://anchor.fm/osprogramadores
+ - https://hipsters.tech/linguagem-go-hipsters-67/
+ - https://m.soundcloud.com/cafe-de-bug/cafe-debug-go-lang 
+ - https://omny.fm/shows/cafe-de-bug/50-go-o-que-mudou-durante-um-ano
+ 
+## Grupos 
+ ##telegram 
+ - https://t.me/go_br 
+ - https://t.me/grupoDeEstudosGolang 
+ - https://t.me/osprogramadores
+ - https://t.me/C_user
+ - https://t.me/programandonagringa
+ ##discord
+ - https://gofiber.io/discord 
+ - https://discord.gg/F7F7Ded
+ - https://discord.gg/Z2whcnGumm
+ - https://discord.gg/ltt
 
 ### Compilação CRUZADA
 
