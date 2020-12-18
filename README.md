@@ -166,6 +166,10 @@ Mas vamos voltar à simultaneidade e adicionar alguma interação ao nosso servi
 ### Compilação CRUZADA
 
 ```bash
+$ go tool dist list
+```
+
+```bash
 $ GOARCH=386 GOOS=windows go build -o myapp.exe main.go
 ```
 
