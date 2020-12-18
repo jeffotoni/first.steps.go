@@ -149,7 +149,12 @@ Mas vamos voltar à simultaneidade e adicionar alguma interação ao nosso servi
  - https://hipsters.tech/linguagem-go-hipsters-67/
  - https://m.soundcloud.com/cafe-de-bug/cafe-debug-go-lang 
  - https://omny.fm/shows/cafe-de-bug/50-go-o-que-mudou-durante-um-ano
- 
+## Workshops  e conteudos
+ - https://github.com/jeffotoni/goworkshopdevops
+ - https://www.letsgophers.com/
+ - https://goworkshop.letsgophers.com/
+ - https://github.com/jeffotoni/codenation.dev
+ - https://github.com/jeffotoni/gocompilation
 ## Grupos 
  ##slack 
  - https://invite.slack.golangbridge.org/
