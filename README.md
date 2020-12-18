@@ -151,6 +151,8 @@ Mas vamos voltar à simultaneidade e adicionar alguma interação ao nosso servi
  - https://omny.fm/shows/cafe-de-bug/50-go-o-que-mudou-durante-um-ano
  
 ## Grupos 
+ ##slack 
+ - https://invite.slack.golangbridge.org/
  ##telegram 
  - https://t.me/go_br 
  - https://t.me/grupoDeEstudosGolang 
