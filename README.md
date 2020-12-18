@@ -173,6 +173,14 @@ $ go tool dist list
 $ GOARCH=386 GOOS=windows go build -o myapp.exe main.go
 ```
 
+```bash
+$ GOARCH=386 GOOS=linux go build -o myapp main.go
+```
+```bash
+$ CGO_ENABLED=0 GOARCH=386 GOOS=linux go build -o myapp main.go
+```
+
+
 ```go
 package main
 
