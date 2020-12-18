@@ -133,4 +133,26 @@ Mas vamos voltar à simultaneidade e adicionar alguma interação ao nosso servi
  - Executando imagem docker
  - Apresentando retrocompatibilidade
  - palestras -> https://docs.google.com/presentation/d/1rHGhzeptr7SA4P2F0wjh6_9VsvLgAAe_awVjSG3oUyo/edit#slide=id.p
+
+ - Boteco Go Canal de Youtube fala sobre Go de forma humorada..
+  https://www.youtube.com/channel/UCyfu7Q4ZjmW94iDnfTGvmBA
+
+
+### Compilação CRUZADA
+
+```bash
+$ GOARCH=386 GOOS=windows go build -o myapp.exe main.go
+```
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+        fmt.Println("Sejam bem vindo!")
+}
+```
  
