@@ -5,8 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	_ "statik" // TODO: Replace with the absolute import path
-
+	_ "github.com/jeffotoni/first.steps.go/static2.files/statik" // TODO: Replace with the absolute import path
 	"github.com/rakyll/statik/fs"
 )
 
@@ -20,10 +19,10 @@ func main() {
 	}
 
 	// diretorio fisico
-	fs := http.FileServer(statikFS)
+	fsnew := http.FileServer(statikFS)
 
 	// mostra no browser localhost:8080/static
-	mux.Handle("/", http.StripPrefix("/", fs))
+	mux.Handle("/", http.StripPrefix("/", fsnew))
 
 	log.Println("Run Server")
 	http.ListenAndServe(":8080", mux)
