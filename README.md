@@ -139,7 +139,7 @@ Mas vamos voltar à simultaneidade e adicionar alguma interação ao nosso servi
  - gerando imagemm docker
  - Executando imagem docker
  - Apresentando retrocompatibilidade
- - palestras -> https://docs.google.com/presentation/d/1rHGhzeptr7SA4P2F0wjh6_9VsvLgAAe_awVjSG3oUyo/edit#slide=id.p
+ - palestras -> https://speakerdeck.com/jeffotoni/primeiros-passos-em-go
 
  - Boteco Go Canal de Youtube fala sobre Go de forma humorada..
   https://www.youtube.com/channel/UCyfu7Q4ZjmW94iDnfTGvmBA
